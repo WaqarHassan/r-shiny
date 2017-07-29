@@ -1,6 +1,6 @@
 library(shiny)
 # library(Diplyr)
-library(prophet)
+# library(prophet)
 library(ggplot2)
 library(DT)
 library(shinythemes)
